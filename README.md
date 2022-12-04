@@ -71,5 +71,3 @@ In conclusion, the prediction of application type expressed in the table below i
 
 The potential loss indicated 0.5543 and the prediction for accuracy 0.7301457524299622 which is close to the target predictive accuracy 75% however to optimize achievement. 
 
-<img width="625" alt="image" src="https://user-images.githubusercontent.com/107796290/205516597-57b83348-9c1c-49d2-9d24-934e9c00cc94.png">
-
