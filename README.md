@@ -22,25 +22,18 @@ Accouraging to the data set reflecting 17 application types with 2 special consi
 
 In this data set we can see the various types of loans amounts from $5,000 to $108,590 reflecting various loan types for each applicant.
 
- 
 As you the Density graph implicates in the visual the application type in value counts. The density upward swing peeks at 0.00010 at 0. 
 
-
-
-
- 
-
-
-
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/107796290/205516413-cd5550f0-336b-4070-af87-22c9af6666b4.png">
 
 There are two additional approaches, to collapse the rare data values into “other” category. The second approach would be to provide the data points new corresponding values to classify the dataset. These two approaches are known as bucketing.   This wraps up the categorical variables for the loan type. 
 
 The table shows the results of the binning approach:
-
- 
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/107796290/205516429-87c48c0f-8146-426c-9ace-48100d8ecc22.png">
 
 The density plot most common unique values have more than 0 instances within the dataset. The bucket appears less than 0 times in any data set. 
 
+<img width="514" alt="image" src="https://user-images.githubusercontent.com/107796290/205516463-f3fa91d5-5f82-416a-ba02-01fa62815c98.png">
 
  
 
@@ -48,6 +41,7 @@ Visualize the value counts of CLASSIFICATION
 
 One-hot encoding was to identify the unique column value to split the categorical column values. This process accelerates the memory course the data difficulty to navigate during the filtering process. This will fit our values to run the dataset. This process was to join the two data frames. 
  
+<img width="1335" alt="image" src="https://user-images.githubusercontent.com/107796290/205516477-07edff13-fe03-4e39-bfea-9da91e909b35.png">
 
 
 The Results:
@@ -56,30 +50,26 @@ As you have reviewed several of the most common scaffold processes to organize t
 
 The next process is to compile, train and evaluate the model the dataset. Basic neutral networking with several neurons to create a deeper understanding with hidden layers to deep operational changes to neural networking. This was done twice to compare the accuracy and loss of potential credit risk and investment.
 This was the  
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/107796290/205516482-50cebc10-a1f0-4d90-ac2e-38024674e5e0.png">
  
 
 
 
 Summary of results:
 
-In conclusion, the prediction of application types were expressed in the below table 
+In conclusion, the prediction of application type expressed in the table below indicating the type pf appplication. 
 
+ <img width="1277" alt="image" src="https://user-images.githubusercontent.com/107796290/205516496-4109dedc-e972-428c-965a-03eeda019064.png">
  
-  
   The results for the network can evaluate high order nonlinear reoccurrences of the data value weight or density subsequently conducting a potential superior outcome.  The hidden nodes layers are indicated below for two node layers an outer layer. As you can see based on the compilation, train and evaluation model based on the results the overarching accuracy is 0.729912519454956 which is close to the target predictive accuracy 75% however not optimized achievement. 
-
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/107796290/205516544-f12a4856-db21-425e-831e-7b2d8e236be9.png">
 
   As opposed to the next compilation, train and evaluation model using several nodes and accuracy results were processed with 5 node layers. 
 
-
- 
+ <img width="558" alt="image" src="https://user-images.githubusercontent.com/107796290/205516577-e416627a-65ed-4651-8601-8fac7ebadb6f.png">
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/107796290/205516564-00203312-94f1-41ca-b1d2-4f9e3d4008ef.png">
 
 The potential loss indicated 0.5543 and the prediction for accuracy 0.7301457524299622 which is close to the target predictive accuracy 75% however to optimize achievement. 
 
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/107796290/205516597-57b83348-9c1c-49d2-9d24-934e9c00cc94.png">
 
- 
-
-
-
-
-![image](https://user-images.githubusercontent.com/107796290/205516315-549f3fc6-24e6-4a1a-92a6-8ccb89b4bbda.png)
