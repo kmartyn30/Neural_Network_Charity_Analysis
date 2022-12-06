@@ -20,13 +20,11 @@ Accouraging to the data set reflecting 17 application types with 2 special consi
  <img width="1221" alt="image" src="https://user-images.githubusercontent.com/107796290/205516347-3114d9c0-dc6a-4caa-8365-a47c15576d9f.png">
 
 
-In this data set we can see the various types of loans amounts from $5,000 to $108,590 reflecting various loan types for each applicant.
-
-As you the Density graph implicates in the visual the application type in value counts. The density upward swing peeks at 0.00010 at 0. 
+In this data set $5,000 to $108,590 reflecting various loan types for each applicant. As you the Density graph implicates in the visual the application type in value counts. The density upward swing peeks at 0.00010 at 0. 
 
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/107796290/205516413-cd5550f0-336b-4070-af87-22c9af6666b4.png">
 
-There are two additional approaches, to collapse the rare data values into “other” category. The second approach would be to provide the data points new corresponding values to classify the dataset. These two approaches are known as bucketing.   This wraps up the categorical variables for the loan type. 
+There are two additional approaches, to collapse the rare data values into “other” category. The second approach would be to provide the data points new corresponding values to classify the dataset. These two approaches are known as bucketing. This wraps up the categorical variables for the loan type. 
 
 The table shows the results of the binning approach:
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/107796290/205516429-87c48c0f-8146-426c-9ace-48100d8ecc22.png">
@@ -35,7 +33,6 @@ The density plot most common unique values have more than 0 instances within the
 
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/107796290/205516463-f3fa91d5-5f82-416a-ba02-01fa62815c98.png">
 
- 
 
 Visualize the value counts of CLASSIFICATION 
 
@@ -52,10 +49,10 @@ The next process is to compile, train and evaluate the model the dataset. Basic 
 This was the  
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/107796290/205516482-50cebc10-a1f0-4d90-ac2e-38024674e5e0.png">
  
+As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately ____ of the time. As you can see the performance of the second test designs results are shared in the below summary results. 
 
 
-
-Summary of results:
+Summary results:
 
 In conclusion, the prediction of application type expressed in the table below indicating the type pf appplication. 
 
