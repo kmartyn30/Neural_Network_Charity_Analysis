@@ -26,6 +26,7 @@ In this data set $5,000 to $108,590 reflecting various loan types for each appli
 
 There are two additional approaches, to collapse the rare data values into “other” category. The second approach would be to provide the data points new corresponding values to classify the dataset. These two approaches are known as bucketing. This wraps up the categorical variables for the loan type. 
 
+
 The table shows the results of the binning approach:
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/107796290/205516429-87c48c0f-8146-426c-9ace-48100d8ecc22.png">
 
@@ -68,3 +69,4 @@ In conclusion, the prediction of application type expressed in the table below i
 
 The potential loss indicated 0.5543 and the prediction for accuracy 0.7301457524299622 which is close to the target predictive accuracy 75% however to optimize achievement. 
 
+We are comparing both models predictive accuracy and the calcuations are veryt similar., Either model will be able to prediction the risk of the loan ore than 70% of the time. As you recall the logical regression model vs the neutral network are more like to overfit and can be more difficult to trian than the logical regresssion. Hoverever the neural network thrive in larger data set similarly to the data we have been using a predictive model across neurons  due to deep learning evaulation of every interaction. 
