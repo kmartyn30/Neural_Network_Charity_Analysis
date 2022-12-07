@@ -52,8 +52,11 @@ This was the
  
 As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately ____ of the time. As you can see the performance of the second test designs results are shared in the below summary results. 
 
+As the onehot encoding was used to reduce the number of unique catergories and show the number of successful applications. By binning or bucketing with the two approachs to create generalization categirical values and resign the data points tow the new corresponding values. 
+![2022-12-07 13 15 51](https://user-images.githubusercontent.com/107796290/206263441-3c14064d-2eb7-4e5b-8d9a-f59bfbcf6d92.png)
 
-Summary results:
+
+Summary Results:
 
 In conclusion, the prediction of application type expressed in the table below indicating the type pf appplication. 
 
@@ -62,10 +65,9 @@ In conclusion, the prediction of application type expressed in the table below i
   The results for the network can evaluate high order nonlinear reoccurrences of the data value weight or density subsequently conducting a potential superior outcome.  The hidden nodes layers are indicated below for two node layers an outer layer. As you can see based on the compilation, train and evaluation model based on the results the overarching accuracy is 0.729912519454956 which is close to the target predictive accuracy 75% however not optimized achievement. 
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/107796290/205516544-f12a4856-db21-425e-831e-7b2d8e236be9.png">
 
-  As opposed to the next compilation, train and evaluation model using several nodes and accuracy results were processed with 5 node layers. 
+  As opposed to the next compilation, train and evaluation model using several nodes and accuracy results were processed with 2 node layers. The purpose of theis was to first train the data set to predict the potential loan based on the neural netwrk models while it is being trained to ensure preferencs and to it's best ablility through each iterationa dnepoch by evaluating the inaccuracy of a single output. 
 
- <img width="558" alt="image" src="https://user-images.githubusercontent.com/107796290/205516577-e416627a-65ed-4651-8601-8fac7ebadb6f.png">
-<img width="614" alt="image" src="https://user-images.githubusercontent.com/107796290/205516564-00203312-94f1-41ca-b1d2-4f9e3d4008ef.png">
+![image](https://user-images.githubusercontent.com/107796290/206266039-fdccecd4-69a6-43d2-aaed-ea97b05f50c0.png)
 
 The potential loss indicated 0.5543 and the prediction for accuracy 0.7301457524299622 which is close to the target predictive accuracy 75% however to optimize achievement. 
 
